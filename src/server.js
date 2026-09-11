@@ -32,6 +32,6 @@ export function raknaKomplexitet(filename) {
     return "antal komplexitet: " + komplexitet;
 }
 
-console.log(raknaRader("example/exmple-code.js"));
-console.log(raknaKodRader("example/exmple-code.js"));
-console.log(raknaKomplexitet("example/exmple-code.js"));
+console.log(raknaRader("example/example-code.js"));
+console.log(raknaKodRader("example/example-code.js"));
+console.log(raknaKomplexitet("example/example-code.js"));
