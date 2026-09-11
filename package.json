@@ -1,0 +1,17 @@
+{
+  "name": "workshop-1",
+  "version": "1.0.0",
+  "description": "workshop 1 for 1dv610",
+  "keywords": [
+    "javascript",
+    "cli"
+  ],
+  "license": "MIT",
+  "author": "Tyson La, Tatevik",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "none"
+  }
+}
