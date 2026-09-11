@@ -1,5 +1,4 @@
 import fs from 'fs';
-import path from 'path';
 
 export function raknaRader(filename) {
     const text = fs.readFileSync(filename, "utf-8");
@@ -33,6 +32,6 @@ export function raknaKomplexitet(filename) {
     return "antal komplexitet: " + komplexitet;
 }
 
-console.log(raknaRader("example/test-file.js"));
-console.log(raknaKodRader("example/test-file.js"));
-console.log(raknaKomplexitet("example/test-file.js"));
+console.log(raknaRader("example/exmple-code.js"));
+console.log(raknaKodRader("example/exmple-code.js"));
+console.log(raknaKomplexitet("example/exmple-code.js"));

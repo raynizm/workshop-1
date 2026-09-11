@@ -1,5 +1,7 @@
-# Code-metrics
-## Kontext: Statisk analys av källkodsfiler — ett litet CLI-verktyg.
+# 1dv610 - Workshop-1
+#### Authors: Tyson, Tatevik
+## Code-metrics
+### Kontext: Statisk analys av källkodsfiler — ett litet CLI-verktyg.
 
 * Som användare vill jag ange en fil och få antalet rader i filen.
 
